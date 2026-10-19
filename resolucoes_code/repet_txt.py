@@ -1,1 +1,6 @@
-# Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+# 2 - Repetindo Textos ✏️
+
+texto = input("Digite um texto: ")
+quantidade = int(input("Digite quantas vezes ele deve ser repetido: "))
+
+print(texto * quantidade)

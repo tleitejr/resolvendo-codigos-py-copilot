@@ -1,1 +1,7 @@
-# Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+# 3 - Operações Matemáticas Simples 📐
+
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+
+resultado = numero1 + numero2
+print(f"A soma é: {resultado}")
